@@ -8,4 +8,4 @@
 ## Инструкция по использованию проекта
 В проекте используется HTML,CSS и JS. Версия языка - "RU"
 
-
+https://elmanaliev.github.io/automation-tool/
