@@ -1,0 +1,20 @@
+.about__title {
+    margin: 0;
+    max-width: 370px;
+    font-size: 36px;
+    line-height: 128%;
+    letter-spacing: 0.05em;
+    color: #316099;
+    grid-row-start: 1;
+    grid-column-start: 1;
+    grid-row-end: 2;
+    grid-column-end: 2;
+    justify-self: start;
+}
+@media screen and (max-width: 1023px) {
+    .about__title {
+        max-width: 700px;
+        text-align: center;
+        margin: 0 auto;
+    }
+}

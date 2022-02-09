@@ -1,0 +1,7 @@
+.about__card_two {
+    grid-row-start: 2;
+    grid-column-start: 1;
+    grid-row-end: 5;
+    grid-column-end: 2;
+    justify-self: end;
+}

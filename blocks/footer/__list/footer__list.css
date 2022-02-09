@@ -1,0 +1,9 @@
+.footer__list {
+    list-style-type: none;
+    margin-top: 32px;
+    padding: 0;
+}
+
+.footer__list-item {
+    margin-top: 16px;
+} 

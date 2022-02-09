@@ -1,0 +1,8 @@
+.footer__about {
+    margin-left: 100px;
+}
+@media screen and (max-width: 1023px) {
+    .footer__about {
+        display: none;
+    }
+}

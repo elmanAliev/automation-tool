@@ -1,0 +1,12 @@
+.lead__wrapper {
+    max-width: 940px;
+    
+    padding: 0 20px 190px;
+    margin: 0 auto;
+}
+@media screen and (max-width: 1023px) {
+    .lead__wrapper {
+        padding: 0 20px 50px;
+        max-width: 100%;
+    }
+}

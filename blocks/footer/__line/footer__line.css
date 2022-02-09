@@ -1,0 +1,5 @@
+.footer__line {
+    border-bottom: 3px solid #b9b1b1;
+    max-width: 300px;
+    margin-top: -3px;    
+}

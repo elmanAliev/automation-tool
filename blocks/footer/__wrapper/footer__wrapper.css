@@ -1,0 +1,11 @@
+.footer__wrapper {
+    max-width: 850px;
+    margin: 0 auto;
+    padding: 85px 20px 125px;
+    border-bottom: 3px solid #b9b1b1;
+}
+@media screen and (max-width: 1023px) {
+    .footer__wrapper {
+        padding: 45px 20px 40px;    
+    }
+}

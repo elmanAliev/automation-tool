@@ -1,0 +1,24 @@
+.client__grid {
+    margin-top: 111px;
+    background: rgba(255, 255, 255, .2);
+    display: grid;
+    grid-template-columns: repeat(4, auto);
+    grid-template-rows: 128px 128px;
+    gap: 1px;
+    
+}
+@media screen and (max-width: 1023px) {
+    .client__grid {
+        margin-top: 30px;
+    }
+}
+@media screen and (max-width: 767px) {
+    .client__grid {
+        grid-template-columns: repeat(2, auto);
+    }
+}
+@media screen and (max-width: 450px) {
+    .client__grid {
+        grid-template-columns: repeat(1, auto);
+    }
+}

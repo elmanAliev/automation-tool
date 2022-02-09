@@ -1,0 +1,35 @@
+@font-face {
+    src: url(./Gilroy-Bold.woff2) format('woff2'),
+         url(./Gilroy-Bold.woff) format('woff');
+    font-family: 'Gilroy';
+    font-style:  normal;
+    font-weight: bold;
+}
+@font-face {
+    src: url(./Gilroy-Light.woff2) format('woff2'),
+         url(./Gilroy-Light.woff) format('woff');
+    font-family: 'Gilroy';
+    font-style:  normal;
+    font-weight: 300;
+}
+@font-face {
+    src: url(./Gilroy-Medium.woff2) format('woff2'),
+         url(./Gilroy-Medium.woff) format('woff');
+    font-family: 'Gilroy';
+    font-style:  normal;
+    font-weight: 500;
+}
+@font-face {
+    src: url(./Gilroy-Regular.woff2) format('woff2'),
+         url(./Gilroy-Regular.woff) format('woff');
+    font-family: 'Gilroy';
+    font-style:  normal;
+    font-weight: normal;
+}
+@font-face {
+    src: url(./Gilroy-Semibold.woff2) format('woff2'),
+         url(./Gilroy-Semibold.woff) format('woff');
+    font-family: 'Gilroy';
+    font-style:  normal;
+    font-weight: 600;
+}
