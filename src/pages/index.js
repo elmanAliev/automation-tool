@@ -4,7 +4,6 @@ import FormValidator from "../components/FormValidator.js";
 import PopupWithForm from "../components/PopupWithForm.js";
 import PopupWithConfirm from "../components/PopupWithConfirm.js";
 import Api from "../components/Api.js";
-console.log('wwww')
 
 //-------------------------------------------------------------------
 const footerButton = document.querySelector('.footer__button');
