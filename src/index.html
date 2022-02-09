@@ -3,13 +3,13 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="./pages/index.css">
+  <!-- <link rel="stylesheet" href="./pages/index.css"> -->
   <title>Automation Tool</title>
 </head>
 <body class="page">
   <div class="root">
     <header class="header">
-      <a href="#" class="header__logo_link"><img src="./images/logo.svg" alt="Логотип" class="header__logo logo"></a>
+      <a href="#" class="header__logo_link"><img src="<%=require('./images/logo.svg')%>" alt="Логотип" class="header__logo logo"></a>
       <button type="button" class="header__menu-button point"></button>
     </header>
     <div class="hero">
@@ -25,19 +25,19 @@
       <section class="about">
         <h2 class="about__title">What we do to help our client grow in digital era,</h2>
         <div class="about__card about__card_one card">
-          <img src="./images/card1.png" alt="Технологии окружающие вас" class="card__img-one">
+          <img src="<%=require('./images/card1.png')%>" alt="Технологии окружающие вас" class="card__img-one">
           <h3 class="card__title">Bring Technology To Your Comfrotable Home</h3>
           <p class="card__subtitle">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
           <a href="#" class="card__link point">Learn more →</a>
         </div>
         <div class="about__card about__card_two card">
-          <img src="./images/card2.png" alt="Улучшить бизнес" class="card__img-two">
+          <img src="<%=require('./images/card2.png')%>" alt="Улучшить бизнес" class="card__img-two">
           <h3 class="card__title">Make Your business To Be Better Famous In Internet</h3>
           <p class="card__subtitle">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
           <a href="#" class="card__link point">Learn more →</a>
         </div>
         <div class="about__card about__card_three card">
-          <img src="./images/card3.png" alt="Создать свой продукт" class="card__img-three">
+          <img src="<%=require('./images/card3.png')%>" alt="Создать свой продукт" class="card__img-three">
           <h3 class="card__title">Build Your Digital Product That Suitable For Your Need</h3>
           <p class="card__subtitle">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
           <a href="#" class="card__link point">Learn more →</a>
@@ -75,7 +75,7 @@
         <div class="footer__bottom">
           <div class="footer__info">
             <div class="footer__logo-name">
-              <img src="./images/logo-footer.svg" alt="Логотип" class="footer__logo logo">
+              <img src="<%=require('./images/logo-footer.svg')%>" alt="Логотип" class="footer__logo logo">
               <h2 class="footer__name">Afrianska</h2>
             </div>
             <div class="footer__grid">
@@ -143,6 +143,6 @@
       </div>
     </div>
   </div>
-  <script src="./pages/index.js" type="module"></script>
+  <!-- <script src="./pages/index.js" type="module"></script> -->
 </body>
 </html>

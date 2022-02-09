@@ -4,8 +4,7 @@
 * CSS GRID LAYOUT
 * CSS Flexbox
 * Адаптивная верстка
+* JS
 
-## Инструкция по использованию проекта
-В проекте используется HTML,CSS и JS. Версия языка - "RU"
-
+## Ссылка на страниц
 https://elmanaliev.github.io/automation-tool/
