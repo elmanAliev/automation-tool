@@ -1,9 +1,0 @@
-.header__menu-button {
-    width: 32px;
-    height: 32px;
-    cursor: pointer;
-    background-image: url(../../../images/menu.svg);
-    background-repeat: no-repeat;
-    background-color: transparent;
-    border: 0;
-}
