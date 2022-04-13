@@ -1,8 +1,8 @@
-# Проект: Automation Tool
+# Pet-проект: Automation Tool
 
 ## В проекте применяется
-* CSS GRID LAYOUT
-* CSS Flexbox
+* HTML
+* CSS
 * Адаптивная верстка
 * JS
 
